@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3D Login UI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- 3D Background -->
+  <div class="bg-3d">
+    <div class="blob blob1"></div>
+    <div class="blob blob2"></div>
+    <div class="blob blob3"></div>
+  </div>
+
+  <!-- Main UI -->
+  <div class="container" id="container">
+
+    <!-- Login -->
+    <div class="form-box login">
+      <form>
+        <h1>Welcome Back</h1>
+        <p>Login to continue</p>
+        <input type="email" placeholder="Email" required>
+        <input type="password" placeholder="Password" required>
+        <button>Login</button>
+
+        <span>Don't have an account?</span>
+        <a href="#" id="showSignup">Sign up</a>
+      </form>
+    </div>
+
+    <!-- Signup -->
+    <div class="form-box signup">
+      <form>
+        <h1>Create Account</h1>
+        <p>Start your journey</p>
+        <input type="text" placeholder="Name" required>
+        <input type="email" placeholder="Email" required>
+        <input type="password" placeholder="Password" required>
+        <button>Sign Up</button>
+
+        <span>Already have an account?</span>
+        <a href="#" id="showLogin">Login</a>
+      </form>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
