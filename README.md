@@ -12,12 +12,6 @@ This project focuses on simple UI design, responsive layout, and modern styling 
 
 ---
 
-## 📸 Preview
-
-<img width="100%" alt="Login Page Preview" src="https://user-images.githubusercontent.com/placeholder/login-preview.png">
-
-> Replace the image link above with your actual project screenshot.
-
 ---
 
 ## ✨ Features
@@ -45,3 +39,10 @@ Login-Page/
 ├── login.html
 ├── style.css
 └── README.md
+
+## 🙌 Thank You
+
+Thank you for visiting this project! 💙  
+I appreciate your time and support. 🚀
+
+If you like this project, feel free to ⭐ the repository and share your feedback. 😊
