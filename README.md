@@ -1,27 +1,47 @@
-# Simple Login Page
+# 🔐 Login Page
 
-A basic login page created using HTML and CSS.
+A clean and responsive login page built using HTML and CSS.  
+This project focuses on simple UI design, responsive layout, and modern styling for beginner frontend practice.
 
-## Features
-- Simple UI
-- Responsive layout
-- Clean design
-- Beginner-friendly project
+---
 
-## Technologies Used
+## 🚀 Live Demo
+
+🔗 GitHub Repository:  
+[Login-Page Repository](https://github.com/Santoshmmadivalar/Login-Page?utm_source=chatgpt.com)
+
+---
+
+## 📸 Preview
+
+<img width="100%" alt="Login Page Preview" src="https://user-images.githubusercontent.com/placeholder/login-preview.png">
+
+> Replace the image link above with your actual project screenshot.
+
+---
+
+## ✨ Features
+
+- Responsive Login Form
+- Clean User Interface
+- Modern CSS Styling
+- Beginner Friendly Structure
+- Simple and Lightweight
+
+---
+
+## 🛠️ Technologies Used
+
 - HTML5
 - CSS3
 
-## Project Files
-- login.html
-- style.css
+---
 
-## How to Run
-1. Download or clone the repository
-2. Open `login.html` in browser
+## 📂 Project Structure
 
-## GitHub Repository
-https://github.com/YOUR_USERNAME/unlox-exam
-
-## Author
-Santosh M M
+```bash
+Login-Page/
+│
+├── login.html
+├── style.css
+└── README.md
