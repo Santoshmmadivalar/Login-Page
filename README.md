@@ -40,6 +40,8 @@ Login-Page/
 ├── style.css
 └── README.md
 
+---
+
 ## 🙌 Thank You
 
 Thank you for visiting this project! 💙  
