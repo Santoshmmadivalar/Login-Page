@@ -12,8 +12,6 @@ This project focuses on simple UI design, responsive layout, and modern styling 
 
 ---
 
----
-
 ## ✨ Features
 
 - Responsive Login Form
@@ -39,12 +37,3 @@ Login-Page/
 ├── login.html
 ├── style.css
 └── README.md
-
----
-
-## 🙌 Thank You
-
-Thank you for visiting this project! 💙  
-I appreciate your time and support. 🚀
-
-If you like this project, feel free to ⭐ the repository and share your feedback. 😊
